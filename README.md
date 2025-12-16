@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a cybersecurity student from Kathmandu, Nepal,
 
 ## 📫 Get in Touch
 - 📧 **Email**: [parasbadu23@gmail.com](mailto:parasbadu23@gmail.com)
-- 🌐 **Portfolio**: [yogendra-badu-portfolio.netlify.app](https://yogendra-badu-portfolio.netlify.app) *(Update with your actual portfolio link)*
-- 💼 **LinkedIn**: [linkedin.com/in/yogendra-badu](https://linkedin.com/in/yogendra-badu) *(Update with your actual LinkedIn profile)*
-- 🐦 **X**: [x.com/YogendraBadu](https://x.com/YogendraBadu) *(Update with your actual X handle)*
+- 🌐 **Portfolio**: [yogendra-badu-portfolio.netlify.app](https://yogendra-badu-portfolio.netlify.app) *(not here lol)*
+- 💼 **LinkedIn**: [linkedin.com/in/yogendra-badu](https://linkedin.com/in/yogendra-badu) 
+- 🐦 **X**: [x.com/YogendraBadu](https://x.com/YogendraBadu) 
 
 ## ⚡ Fun Fact
 When I'm not hunting for digital vulnerabilities, you can find me sipping *chiya* at a local tea shop in Kathmandu, brainstorming ways to gamify CTF challenges!
