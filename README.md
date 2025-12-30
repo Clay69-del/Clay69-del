@@ -17,8 +17,10 @@ Welcome to my GitHub profile! I'm a cybersecurity student from Kathmandu, Nepal,
 - **Other**: Linux, Bash scripting, CTF challenge-solving
 
 ## 📊 GitHub Stats
-![Yogendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clay69-del&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clay69-del&layout=compact&theme=radical)
+
+![Yogendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clay69-del&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clay69-del&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Get in Touch
 - 📧 **Email**: [parasbadu23@gmail.com](mailto:parasbadu23@gmail.com)
